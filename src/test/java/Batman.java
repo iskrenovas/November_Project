@@ -7,6 +7,10 @@ public class Batman {
 
         // added line 2
 
+        // new line added after the break
+        // second line added after the break
+
+
 
     }
 }
